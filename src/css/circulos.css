@@ -1,0 +1,8 @@
+.circulos {
+  width: 80px;
+  height: 80px;
+  background-color: #e1e1e1;
+  border-radius: 100%;
+  display: inline-block;
+  margin: 20px 10px 0 20px;
+}

@@ -1,0 +1,11 @@
+.calculadora {
+}
+
+.imagenCalculadora {
+  position: relative;
+}
+
+.suma {
+  grid-column: 5/6;
+  grid-row: 4/6;
+}

@@ -1,0 +1,9 @@
+.container-bombillo {
+  position: relative;
+}
+
+.boton {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
